@@ -17,5 +17,3 @@ I'm a computer science major looking to learn more about creating web applicatio
 - I have an older sister and two dogs at home.
 - In my free time I enjoy play video games.
 - Something that interests me is reading the Bible.
-git config --global user.name "Nathan McDonald"
-git config --global user.email "your.professional.mcdonan@grace.edu"
