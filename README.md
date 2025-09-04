@@ -1,4 +1,5 @@
-# Hey there, I'm Nathan McDonald!
+#Nathan McDonald
+## Hey there, I'm Nathan McDonald!
 I'm a computer science major looking to learn more about creating web applications that solve real-world problems. Currently looking into a development and excited about the intersection of technology and experience.
 ## Technologies & Tools
 - **Languages**: JavaScript, Python, HTML, CSS
